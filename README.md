@@ -2,4 +2,5 @@
 <div>
   <h1>Projeto Cafeteria ☕</h1>
   <p>Este projeto consiste na criação de uma página web para uma cafeteria fictícia. Foi desenvolvido utilizando HTML e CSS, com o objetivo de criar uma interface visualmente agradável, simples e funcional.</p>
+  <a href="https://cafeteria-eosin.vercel.app/" target="_blank">🔗 Confira o Projeto</a>
 </div>
